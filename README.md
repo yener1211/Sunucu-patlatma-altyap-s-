@@ -1,1 +1,1 @@
-# Sunucu-patlatma-altyap-s-
+# Sunucu-patlatma-altyapısı
